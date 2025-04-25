@@ -19,3 +19,7 @@ Starting the Application:
 Once the modules are installed, you can start the application by running:
 
 node index.js
+
+
+discord:blessurgod
+discord server discord.gg/girlnight
